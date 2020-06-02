@@ -20,7 +20,7 @@ The second part is to interpret the instructions as well as your own diagram and
 
 * The bucket is already created, and the IAM role for the EC2 instances allows it to download (using aws cli) the udagram.zip file and unzip it at /var/www/html location 
 
-* The application URL will be an output of the servers-stack [check here](http://serve-webap-1ie86eq7f42tc-462671384.us-west-2.elb.amazonaws.com/)
+* The application URL will be an output of the servers-stack [check here](http://serve-webap-1az0kpn17l8kg-1893821710.us-west-2.elb.amazonaws.com/index.html)
 
 
 
